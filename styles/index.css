@@ -5,10 +5,7 @@ main {
     justify-content: center;
     padding: 30px;
 }
-/* .row {    
-    display: flex;
-    justify-content: center;
-} */
+
 .container {
     background-color: #FFDDD2;
     width: 600px;
