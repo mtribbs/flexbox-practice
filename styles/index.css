@@ -16,7 +16,9 @@ main {
 }
 
 .card {
-    background-color: #E29578;
+    background-color: #DB7A57;
+    font-family: sans-serif;
+    color: floralwhite;
     min-height: 50px;
     min-width: 50px;
     border-radius: 6px;
@@ -39,17 +41,13 @@ main {
     align-items: center;
 }
 
-.j {
-    justify-self: flex-end;
-    align-self: flex-start;
+.four {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-.k {
-    justify-self: center; /* not working, tried different things */
-    align-self: flex-start;
-}
 .l {
-    justify-self: flex-end; /* not eorking, tried different things */
     align-self: flex-end;
 }
 
